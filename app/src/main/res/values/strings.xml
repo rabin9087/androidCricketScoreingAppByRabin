@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Cricket Score (rabin9087@gmail.com)</string>
+    <string name="let_s_play_cricket">Let\'s Play Cricket</string>
+    <string name="vs">Vs</string>
+    <string name="selected_to">Selected to</string>
+    <string name="ball_first">Ball first</string>
+    <string name="team_A">Team A</string>
+    <string name="bat_first">Bat first</string>
+    <string name="next">Next</string>
+    <string name="team_B">Team B</string>
+    <string name="toss_the_coin">TOSS THE COIN</string>
+    <string name="toss_won_by">Toss Won By</string>
+    <string name="todo">TODO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
